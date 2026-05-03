@@ -1,1 +1,0 @@
-![Git Log](log.png)
