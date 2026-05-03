@@ -1,2 +1,2 @@
-![Git Log](./dokum/log.png)
-![Protection](./dokum/pro.png)
+![Log Git](./log.png)
+![Branch Rules](./pro.png)
